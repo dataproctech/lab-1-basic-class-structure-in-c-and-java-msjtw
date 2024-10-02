@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3KfufTqw)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16301021)
 # Laboratorium 1: Podstawowa Struktura Klasy w C++ i Java
 
 ## Przegląd
@@ -61,8 +63,15 @@ Pod koniec tego laboratorium będziesz w stanie:
 
 Po ukończeniu zadań, zastanów się nad następującymi pytaniami:
   1. Dlaczego ważne jest używanie specyfikatorów dostępu private dla atrybutów?
+
+  Ponieważ chemy miec kontrole nad tym kto ma dostęp, może edytować atrybuty klasy. 
+
   2. Co się stanie, jeśli zmienisz specyfikator dostępu atrybutów na public? Spróbuj to zrobić i zaobserwuj zmiany.
+
+  Wtedy można odczytać ich wartośc poza definicją klasy.
+
   3. Czy możesz utworzyć wiele obiektów klasy Car? Jeśli tak, jak każdy obiekt przechowuje swoje własne atrybuty?
 
+  Tak, każdy obiekt przechowuje swoją wersje atrybutów.
 
 
